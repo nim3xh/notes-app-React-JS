@@ -1,3 +1,5 @@
+![image](https://github.com/nim3xh/notes-app-React-JS/assets/105283769/5241daaf-9755-43b0-a748-19f4927ba387)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
