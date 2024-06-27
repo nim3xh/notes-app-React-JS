@@ -1,5 +1,6 @@
 import { useContext, useState, useRef, useEffect } from "react";
 import { NotesContext } from "../../App";
+import "./style.css";
 
 function Note({note}) {
     const { saveNote, deleteNote } = useContext(NotesContext);
