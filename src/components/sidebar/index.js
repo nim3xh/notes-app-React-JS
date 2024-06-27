@@ -9,7 +9,7 @@ function Sidebar() {
 
   return (
     <div className="notes-app-sidebar">
-      <button className="add-note-btn" onClick={addNote}>
+      <button className="add-note-btn" onClick={()=>addNote(selectedTheme)}>
         <i className="fa fa-plus"></i>
       </button>
       <div className="color-input-container">
